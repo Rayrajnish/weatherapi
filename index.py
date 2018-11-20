@@ -1,5 +1,5 @@
 import requests, json
-
+#install requests,json using pip 
 api_key = "ce2510023e70f507ef5aab85702163fc"
 base_url="http://api.openweathermap.org/data/2.5/weather?"
 city_name =input("Enter city name ")
